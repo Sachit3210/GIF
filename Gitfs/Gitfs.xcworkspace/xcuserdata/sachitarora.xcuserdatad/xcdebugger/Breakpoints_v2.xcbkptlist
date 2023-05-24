@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3053142B-19D7-420F-B257-7D2237765358"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC9901C6-4BCF-44EB-8FF1-7348629F6CA7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gitfs/ViewModel/GifListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "fetchData(offset:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CC9901C6-4BCF-44EB-8FF1-7348629F6CA7 - e3b0a84ab8ac33ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gitfs.GifListViewModel.fetchData(offset: Swift.Int) -&gt; ()"
+                  moduleName = "Gitfs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sachitarora/Downloads/Gitfs/Gitfs/ViewModel/GifListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "CC9901C6-4BCF-44EB-8FF1-7348629F6CA7 - 65d9db1b94f98b79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in Gitfs.GifListViewModel.fetchData(offset: Swift.Int) -&gt; ()"
+                  moduleName = "Gitfs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sachitarora/Downloads/Gitfs/Gitfs/ViewModel/GifListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
